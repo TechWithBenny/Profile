@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Benny</h1>
-<h3 align="center">A aspiring front-end developer from Philippines.</h3>
+<h3 align="center">An aspiring front-end developer from Philippines.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techwithbenny&label=Profile%20views&color=0e75b6&style=flat" alt="techwithbenny" /> </p>
 
